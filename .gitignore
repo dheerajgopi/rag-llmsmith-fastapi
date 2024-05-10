@@ -4,3 +4,9 @@
 
 # Python specific
 __pycache__
+
+# Ruff
+.ruff_cache
+
+# MacOS
+.DS_Store
